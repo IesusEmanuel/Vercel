@@ -3,7 +3,7 @@ import './App.css'
 export default function App() {
   return (
     <main>
-      Teste Iesus Emanuel 19:00
+      Teste Iesus Emanuel 7:40
     </main>
   )
 }
